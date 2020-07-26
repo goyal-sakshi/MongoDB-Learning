@@ -50,10 +50,7 @@ Now, from within this environment you can install all your Python dependencies:
 ```bash
 $ pip install -r requirements.txt
 ```
-Flask
-Flask-Bcrypt
-Flask-Login
-pymongo
+Flask, Flask-Bcrypt, Flask-Login, pymongo
 
 ## MongoDB Atlas
 
